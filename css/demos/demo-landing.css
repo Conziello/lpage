@@ -16,6 +16,14 @@ p {
   font-size: 1rem;
 }
 
+/* .uni {
+  background-color: lightgrey;
+  width: 300px;
+  border: 5px solid aquamarine;
+  padding: 150px;
+  margin: 20px;
+  opacity:50%;
+} */
 .section-concept p,
 .custom-text-color-1 {
   color: rgba(255, 255, 255, 0.6) !important;

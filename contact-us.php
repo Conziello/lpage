@@ -11,10 +11,10 @@ include 'db_fns.php';
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>Contact Us | Porto - Responsive HTML5 Template</title>	
+		<title>Contact Us |</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
-		<meta name="description" content="Porto - Responsive HTML5 Template">
+		<meta name="description" content="">
 		<meta name="author" content="okler.net">
 
 		<!-- Favicon -->
@@ -60,7 +60,7 @@ include 'db_fns.php';
 								<div class="header-row">
 									<div class="header-logo">
 										<a href="index-2.html">
-											<img alt="Porto" width="100" height="48" data-sticky-width="82" data-sticky-height="40" src="img/logo.png">
+											<!-- <img alt="" width="100" height="48" data-sticky-width="82" data-sticky-height="40" src="img/logo.png"> -->
 										</a>
 									</div>
 								</div>
